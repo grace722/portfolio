@@ -3,8 +3,6 @@
   text-indent: -1.5em;
 }
 
-
-
 strong {
   font-weight: 900 !important;
   font-size: 30px !important;
@@ -13,7 +11,7 @@ strong {
 }
 
 body {
-  font-size: 20px;
+  font-size: 19px;
   color: black;
 }
 
@@ -26,9 +24,6 @@ h4 {
   letter-spacing: normal !important;
 }
 
-
-
-
 .navbar .nav-link:hover {
   color: #A1C8ED ;
 }
@@ -37,11 +32,15 @@ h4 {
   color: #A1C8ED ;
 }
 
-
-
-
-
-
 .card {
-  border-color: transparent !important;  /* keeps spacing but invisible */
+  border-color: transparent !important;  
 }
+
+* {
+  background: transparent !important;
+}
+
+.navbar {
+  background-color: #303030 !important;
+}
+
