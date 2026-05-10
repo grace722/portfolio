@@ -1,0 +1,47 @@
+.refs-tab .hanging-indent {
+  margin-left: 1.5em;
+  text-indent: -1.5em;
+}
+
+
+
+strong {
+  font-weight: 900 !important;
+  font-size: 30px !important;
+  text-align: left;
+  color: black;
+}
+
+body {
+  font-size: 20px;
+  color: black;
+}
+
+h4 {
+  line-height: 1.5 !important;
+  font-weight: 200 !important;
+  font-size: 20px !important;
+  color: black !important;
+  text-transform: none !important;
+  letter-spacing: normal !important;
+}
+
+
+
+
+.navbar .nav-link:hover {
+  color: #A1C8ED ;
+}
+
+.nav-tabs .nav-link:hover {
+  color: #A1C8ED ;
+}
+
+
+
+
+
+
+.card {
+  border-color: transparent !important;  /* keeps spacing but invisible */
+}
